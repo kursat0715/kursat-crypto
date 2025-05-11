@@ -1,0 +1,1 @@
+# Kursat Crypto Tahmin Sitesi\nNext.js + Recharts ile yapılmıştır.
