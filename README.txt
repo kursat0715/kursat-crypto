@@ -1,0 +1,1 @@
+Proje dosyaları burada oluşturulacak. Vercel deploy'u için GitHub'a yüklenmeli.
